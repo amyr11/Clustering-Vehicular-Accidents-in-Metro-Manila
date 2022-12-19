@@ -1,0 +1,8 @@
+contextily==1.2.0
+folium==0.14.0
+geopandas==0.12.1
+geopy==2.3.0
+matplotlib==3.6.2
+numpy==1.23.5
+pandas==1.5.2
+scikit_learn==1.2.0
